@@ -1,0 +1,57 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.75em;
+    color: mintcream;
+    background-color: rgb(243, 178, 79);
+}
+a:link
+{
+    color: rgb(0, 60, 255);
+    text-decoration: none;
+}
+a:visited
+{
+    color: rgb(0, 60, 255);
+    text-decoration: none;
+}
+a:hover
+{
+    color: springgreen;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+}
+#wrapper{
+    background-color: #FFC56E;
+    width: 65%;
+    margin: 12.5%;
+    padding: 2.5%;
+    
+    margin-top: 2.5%;
+    margin-bottom: 10%;
+}
+ul.a{
+    color: rgb(0, 60, 255);
+}
+ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #272727;
+}
+ul.menu li{
+    float: left;
+}
+ul.menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 32px;
+    text-decoration: none;
+}
+ul.menu li a:hover{
+    background-color: #dfdfdf;
+}
