@@ -47,6 +47,7 @@ ul.menu li{
 }
 ul.menu li a{
     display: block;
+    width: 20%;
     color: white;
     text-align: center;
     padding: 14px 32px;
