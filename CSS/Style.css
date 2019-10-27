@@ -41,13 +41,13 @@ ul.menu{
     padding: 0;
     overflow: hidden;
     background-color: #272727;
+    align-content: center;
 }
 ul.menu li{
     float: left;
 }
 ul.menu li a{
     display: block;
-    width: 20%;
     color: white;
     text-align: center;
     padding: 14px 32px;
