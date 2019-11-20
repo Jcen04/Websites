@@ -20,6 +20,10 @@ a:hover
     color: springgreen;
     text-decoration: underline;
 }
+.menuA
+{
+    width: 20%;
+}
 h1{
     text-align: center;
 }
